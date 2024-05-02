@@ -1,4 +1,4 @@
-const apiKey = "YOUR_API_KEY";
+const apiKey = "6633ddefdf9a8a296383a365_3b82d95255d71f1b2e93_apyhitools";
 
 const maxImages = 4; // Number of images to generate for each prompt
 let selectedImageNumber = null;
